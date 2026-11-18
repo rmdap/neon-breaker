@@ -1,8 +1,8 @@
 # NEON BREAKER
 
-[![make.fun bounty](https://make.fun/api/competitions/best-game-01/badge.svg)](https://make.fun/bounty/best-game-01)
-[![owner](https://make.fun/api/owners/rmdap/badge.svg)](https://make.fun/r/8aa53bxw)
-[![repo](https://make.fun/api/repos/rmdap/neon-breaker/badge.svg)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/rmdap/neon-breaker/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/rmdap/neon-breaker/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A neon Breakout arcade game for make.fun's **"Make the best game"** bounty ($1,000). Steer the paddle, smash every brick, catch the power-ups, and survive all three levels — *First Light*, *Double Trouble* (tough two-hit bricks), and *Steel Maze* (armoured bricks and unbreakable steel).
 
